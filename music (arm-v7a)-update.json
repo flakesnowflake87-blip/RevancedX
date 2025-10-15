@@ -1,6 +1,6 @@
 {
-  "version": "v8.25.54 (patches 5.43.0)",
-  "versionCode": 9,
-  "zipUrl": "https://github.com/flakesnowflake87-blip/RevancedX/releases/download/9/music-revanced-magisk-v8.25.54-arm-v7a.zip",
+  "version": "v8.25.54 (patches 5.43.1)",
+  "versionCode": 10,
+  "zipUrl": "https://github.com/flakesnowflake87-blip/RevancedX/releases/download/10/music-revanced-magisk-v8.25.54-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/flakesnowflake87-blip/RevancedX/update/build.md"
 }
